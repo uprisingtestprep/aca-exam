@@ -1,0 +1,2502 @@
+[
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Which fetal shunt carries the best-oxygenated blood across the atrial septum, and where does it go?",
+    "back": "The foramen ovale directs inferior vena caval blood into the left atrium, so the brain and coronary arteries receive the most saturated blood."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "What happens at birth to close the foramen ovale and ductus arteriosus?",
+    "back": "Pulmonary resistance falls and left atrial pressure exceeds right, closing the foramen flap. Higher oxygen tension and falling prostaglandin E close the ductus over the first days."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "What keeps a ductal-dependent lesion alive in a newborn?",
+    "back": "Prostaglandin E1 infusion keeps the ductus arteriosus open."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Which primitive heart segment forms the trabeculated right ventricle and smooth outflow tracts?",
+    "back": "The bulbus cordis."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "From which tissue does the aorticopulmonary septum arise, and what is the failure state?",
+    "back": "Neural crest cells. Failure to septate the truncus gives persistent truncus arteriosus."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "What fraction of people have right coronary dominance, and what defines it?",
+    "back": "About 85 percent. Dominance means the right coronary artery gives the posterior descending artery."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Why is the posteromedial papillary muscle more prone to infarction and rupture?",
+    "back": "It usually has a single blood supply from the posterior descending artery, while the anterolateral muscle has a dual supply."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Which artery usually supplies the SA node and AV node?",
+    "back": "The right coronary artery supplies the SA node in about 60 percent and the AV node in about 90 percent."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Where does most left ventricular venous blood drain, and what is its typical oxygen saturation?",
+    "back": "Into the coronary sinus, about 85 percent of left ventricular flow, with a saturation of about 30 to 40 percent."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Which nerve hooks under the aortic arch beside the ligamentum arteriosum?",
+    "back": "The left recurrent laryngeal nerve."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "What bounds the triangle of Koch and what lies within it?",
+    "back": "The tendon of Todaro, the tricuspid septal leaflet and the coronary sinus ostium. The AV node lies within it."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Why is the right main bronchus more prone to receive aspirate or endobronchial tubes?",
+    "back": "It is shorter, wider and more vertical, about 25 degrees from vertical against about 45 degrees on the left."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "What are the five phases of the ventricular myocyte action potential?",
+    "back": "0 sodium influx, 1 transient outward potassium, 2 calcium plateau, 3 potassium repolarization, 4 resting potential of about minus 90 mV set by IK1."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Which current produces spontaneous phase 4 depolarization in the SA node?",
+    "back": "The funny current (If) through HCN channels, aided late by T-type calcium current."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Why do calcium channel blockers and adenosine slow the AV node but sodium channel blockers do not?",
+    "back": "AV nodal phase 0 depends on L-type calcium current, not fast sodium current."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "How does intravenous calcium help in hyperkalemia with ECG changes?",
+    "back": "It restores the gap between resting and threshold potential and stabilizes the membrane. It does not lower serum potassium."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "On the central venous waveform, what causes a giant cannon a wave?",
+    "back": "Atrial contraction against a closed tricuspid valve, as in junctional rhythm, complete heart block or ventricular pacing without atrial sensing."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "What does a tall v wave suggest on the central venous or wedge tracing?",
+    "back": "Tricuspid regurgitation on the central venous tracing, and mitral regurgitation on the pulmonary capillary wedge tracing."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "On a pressure-volume loop, what does the slope of the end-systolic pressure-volume relationship measure?",
+    "back": "Contractility, as end-systolic elastance, which is relatively load independent."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "How does the pressure-volume loop change with increased afterload?",
+    "back": "It becomes taller and narrower, with a higher end-systolic pressure and a smaller stroke volume."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "State Laplace's law for ventricular wall stress.",
+    "back": "Wall stress equals pressure times radius divided by twice the wall thickness. Dilation raises it and hypertrophy lowers it."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "What are the determinants of myocardial oxygen demand and supply?",
+    "back": "Demand: heart rate, wall tension and contractility. Supply: coronary perfusion pressure (aortic diastolic minus LVEDP), diastolic time, and arterial oxygen content."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Why is the right ventricle so sensitive to acute rises in pulmonary vascular resistance?",
+    "back": "It is thin and compliant and cannot acutely generate a mean pulmonary artery pressure much above 40 mmHg, so hypoxia, acidosis or protamine can precipitate right heart failure."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "Calculate PVR when mean PA pressure is 40, wedge is 15 and cardiac output is 5 L/min.",
+    "back": "PVR = 80 x (40 minus 15) divided by 5 = 400 dyne-sec per cm5, or 5 Wood units."
+  },
+  {
+    "domain": "foundations_of_adult_cardiac_anesthesiology",
+    "front": "What is the Bezold-Jarisch reflex and when does it appear?",
+    "back": "Inferoposterior ventricular receptors trigger bradycardia and hypotension, seen with inferior wall reperfusion, hypovolemia and high spinal block."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "Which preoperative ECG finding makes a pulmonary artery catheter risky for complete heart block?",
+    "back": "Preexisting left bundle branch block, because catheter-induced right bundle branch block then produces complete heart block. Have pacing available."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "Why can the ECG not be read for ischemia in a ventricular-paced patient?",
+    "back": "Right ventricular pacing produces a left bundle branch block pattern that masks ST and T changes."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What RV findings on echo suggest RV dysfunction?",
+    "back": "TAPSE below 17 mm or tricuspid annular S prime below 9.5 cm/s."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What defines severe aortic stenosis by echo?",
+    "back": "Valve area 1.0 cm2 or less, mean gradient 40 mmHg or more, or peak velocity 4 m/s or more."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What valve area defines severe mitral stenosis in the 2020 ACC/AHA guideline?",
+    "back": "A mitral valve area of 1.5 cm2 or less."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What is the low-flow, low-gradient aortic stenosis pattern?",
+    "back": "A small valve area with a mean gradient under 40 mmHg because stroke volume is low. Stroke volume index is below 35 mL/m2 in the paradoxical form."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What does low-dose dobutamine echo show in true severe aortic stenosis?",
+    "back": "The valve area stays small while flow rises and the gradient climbs. In pseudostenosis the valve area increases."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What defines contractile reserve on dobutamine echo in low-gradient aortic stenosis?",
+    "back": "A stroke volume increase of 20 percent or more. Its absence predicts higher operative mortality."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What CT calcium score supports severe aortic stenosis in paradoxical low-flow disease?",
+    "back": "About 2,000 Agatston units or more in men and 1,200 or more in women."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "Which conditions make exercise ECG testing unreliable?",
+    "back": "Left bundle branch block, ventricular pacing, LVH with repolarization changes, digoxin effect, and preexcitation."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What does a biphasic response on dobutamine stress echo indicate?",
+    "back": "Viable but ischemic myocardium: improvement at low dose and worsening at high dose."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "When are vasodilator stress agents contraindicated?",
+    "back": "Active bronchospasm and high-grade AV block. Caffeine is held 12 to 24 hours because it blocks adenosine receptors."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "Why is PET often better than SPECT?",
+    "back": "Higher spatial resolution and fewer attenuation artifacts, helpful in obese patients and women. FDG PET also identifies hibernating myocardium."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What does a perfusion-metabolism mismatch on PET predict?",
+    "back": "Hibernating myocardium that is likely to recover function after revascularization."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What MRI finding predicts that a segment will not recover after revascularization?",
+    "back": "Late gadolinium enhancement through more than 50 percent of wall thickness."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What angiographic thresholds define significant coronary stenosis?",
+    "back": "50 percent or more in the left main and 70 percent or more elsewhere."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What FFR and iFR values mark a significant lesion?",
+    "back": "Fractional flow reserve 0.80 or below, instantaneous wave-free ratio 0.89 or below."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What are normal right-sided pressures?",
+    "back": "RA mean 2 to 6 mmHg, RV 25/0 to 5 mmHg, PA 25/10 with mean 15 mmHg, wedge 6 to 12 mmHg."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What is the hemodynamic definition of pulmonary hypertension?",
+    "back": "A mean pulmonary artery pressure above 20 mmHg."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What does a large v wave on the wedge tracing suggest?",
+    "back": "Mitral regurgitation, though it also occurs with ventricular septal defect or a noncompliant left atrium."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "Why does wedge pressure overestimate LV end-diastolic pressure in mitral stenosis?",
+    "back": "Wedge reflects left atrial pressure and a diastolic gradient exists across the stenotic valve."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What causes cannon a waves?",
+    "back": "Atrial contraction against a closed AV valve, as in complete heart block or junctional rhythm."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What is the pressure pattern of constrictive pericarditis?",
+    "back": "Prominent y descent, dip and plateau (square root sign), diastolic equalization, and ventricular interdependence."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What is the Brockenbrough-Braunwald-Morrow sign?",
+    "back": "In hypertrophic obstructive cardiomyopathy, aortic pulse pressure falls after a premature beat because the obstruction deepens."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "How is pulmonary vascular resistance calculated?",
+    "back": "(Mean PA pressure minus wedge pressure) divided by cardiac output. Example: (35 minus 15) / 5 = 4 Wood units, or 320 dyn.s/cm5."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "How is Qp/Qs calculated from saturations?",
+    "back": "(Systemic arterial minus mixed venous saturation) divided by (pulmonary venous minus pulmonary arterial saturation)."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What Qp/Qs generally supports shunt closure?",
+    "back": "1.5 or more, together with other criteria. Reversal with a ratio below 1.0 marks Eisenmenger physiology."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What saturation step-up localizes a shunt?",
+    "back": "A rise of more than 7 percent between chambers, for example at the atrial level in an atrial septal defect."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "How is cardiac output derived by the Fick principle?",
+    "back": "Oxygen consumption divided by the arteriovenous oxygen content difference, with content 1.34 x Hb x saturation. VO2 is often assumed at 125 mL/min/m2."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What is the Hakki estimate of valve area?",
+    "back": "Cardiac output in L/min divided by the square root of the gradient in mmHg."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "How should chronic beta-blockers be handled before cardiac surgery?",
+    "back": "Continue through the morning of surgery. Do not start one on the day of surgery in a naive patient, per POISE."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "What is the ARNI washout rule?",
+    "back": "Sacubitril-valsartan needs a 36-hour gap from any ACE inhibitor because of angioedema risk."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "Why are SGLT2 inhibitors held before surgery, and for how long?",
+    "back": "They cause euglycemic ketoacidosis. Hold 3 days, or 4 days for ertugliflozin."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "How long are P2Y12 inhibitors held before elective cardiac surgery?",
+    "back": "Clopidogrel at least 5 days, ticagrelor at least 3 days, prasugrel at least 7 days. Aspirin is continued."
+  },
+  {
+    "domain": "preoperative_evaluation_for_cardiac_surgery",
+    "front": "How are DOACs and warfarin handled before surgery?",
+    "back": "Warfarin stopped about 5 days to INR near 1.5 or lower. Apixaban, rivaroxaban and edoxaban held at least 48 hours. DOACs are not used with mechanical valves."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Which single ECG lead is most sensitive for detecting anterior and lateral ischemia?",
+    "back": "Lead V5 detects roughly 75 percent of ischemic events. Leads II plus V5 together detect roughly 80 percent."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Which ECG filter mode should be used for ST segment analysis?",
+    "back": "The diagnostic filter mode. The monitor mode filter distorts the ST segment."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Name four conditions that make ECG ST analysis unreliable.",
+    "back": "Left bundle branch block, ventricular pacing, electrocautery noise, and digoxin effect (scooped ST depression)."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Why trust the arterial waveform over the monitor heart rate with a pacemaker?",
+    "back": "The ECG monitor can count pacer spikes or T waves, giving a rate far above the true pulse rate. The pulse waveform shows actual perfusion rate."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What does an underdamped arterial line do to the pressure readings?",
+    "back": "It overestimates systolic and underestimates diastolic pressure. The mean pressure stays roughly correct."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What does an overdamped arterial line do to the trace?",
+    "back": "It flattens the waveform and underestimates systolic pressure, with a roughly correct mean. Causes are air bubbles, kinks, or clot."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "How does the fast flush test show optimal damping?",
+    "back": "One or two oscillations after the flush before the trace settles. Many oscillations means underdamped; slow return without overshoot means overdamped."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Why can radial pressure mislead after separation from bypass?",
+    "back": "Radial systolic pressure can run 10 to 30 mmHg below central aortic pressure. Check a femoral or aortic pressure before starting a vasopressor."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Why is the right radial line misleading with right axillary cannulation?",
+    "back": "The right radial reads high from direct flow in the cannulated branch, so a left radial or femoral line is added. Systemic pressure is not reflected."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What does pulse pressure variation measure?",
+    "back": "The maximum minus minimum pulse pressure over a respiratory cycle divided by their mean. Above 12 to 13 percent predicts fluid responsiveness."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "List the conditions required for pulse pressure variation to be valid.",
+    "back": "Controlled ventilation, tidal volume of at least 8 mL/kg predicted body weight, regular sinus rhythm, closed chest, normal lung compliance, no right ventricular failure."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Which first-choice vein is used for central venous access in cardiac surgery?",
+    "back": "The right internal jugular vein, placed with real-time ultrasound and the Seldinger technique."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Why is the subclavian vein avoided in coagulopathy?",
+    "back": "It cannot be compressed if the artery is punctured, and it carries a higher pneumothorax risk, though its infection rate is lower."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Where should a central venous catheter tip rest?",
+    "back": "At the cavoatrial junction, above the pericardial reflection."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What produces the a wave of the CVP trace?",
+    "back": "Atrial contraction, following the P wave. It is absent in atrial fibrillation."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What causes cannon a waves on the CVP trace?",
+    "back": "Atrial contraction against a closed tricuspid valve, as in junctional rhythm, ventricular pacing, or complete heart block."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What is the CVP waveform finding in tricuspid regurgitation?",
+    "back": "A large systolic v wave, with the c wave and x descent merged."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Which CVP descent is lost in cardiac tamponade?",
+    "back": "The y descent, because the ventricle cannot fill in early diastole."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What are normal PA catheter pressures?",
+    "back": "Right ventricle 25/0 to 8, pulmonary artery 25/8 with mean about 15, wedge 6 to 12 mmHg, right atrium mean 2 to 8 mmHg."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "How much air does the pulmonary artery catheter balloon hold, and when is it inflated?",
+    "back": "1.5 mL. Inflate only in the right atrium on the way in, and deflate when withdrawing."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Why can the wedge pressure overestimate left ventricular filling?",
+    "back": "Mitral stenosis, high airway pressure or PEEP, and pulmonary venous disease raise it. A stiff left ventricle makes it underestimate end-diastolic pressure."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What does a large v wave on the wedge tracing indicate?",
+    "back": "Mitral regurgitation, or any lesion raising left atrial filling in systole such as a ventricular septal defect."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "In which West lung zone must the catheter tip lie for a valid wedge?",
+    "back": "Zone 3, where pulmonary venous pressure exceeds alveolar pressure."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What are the risk factors for pulmonary artery rupture from a PA catheter?",
+    "back": "Age over 60, pulmonary hypertension, hypothermia and rewarming on bypass, anticoagulation, distal migration, and balloon overinflation."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What should be done with the PA catheter before cooling on bypass?",
+    "back": "Withdraw it 2 to 3 cm, because the tip migrates distally during cooling."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "How does thermodilution cardiac output relate to the temperature curve?",
+    "back": "Output is inversely related to the area under the curve. Low output gives a large slow curve."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Which conditions make thermodilution cardiac output unreliable?",
+    "back": "Severe tricuspid regurgitation and intracardiac shunts."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What is a normal mixed venous oxygen saturation, and what lowers it?",
+    "back": "65 to 75 percent. Low cardiac output, anemia, hypoxemia, and high oxygen consumption lower it."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What does esophageal Doppler measure, and what does it assume?",
+    "back": "Descending thoracic aortic blood velocity. It assumes about 70 percent of cardiac output flows through the descending aorta."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Which transgastric view monitors volume status and wall motion in all coronary territories?",
+    "back": "The transgastric midpapillary short-axis view."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "How is stroke volume calculated by echo, and what is the main source of error?",
+    "back": "LVOT area times LVOT velocity time integral. The outflow tract diameter is squared, so its error dominates."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What does global longitudinal strain show, and what is its normal value?",
+    "back": "Percent myocardial shortening by speckle tracking. Normal is about negative 20 percent; a less negative value means worse function."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What NIRS change triggers action during cardiac surgery?",
+    "back": "A fall of more than 20 percent from baseline, or an absolute rSO2 below 50 percent."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "Which agents suppress motor evoked potentials?",
+    "back": "Neuromuscular blockers and volatile anesthetics above 0.5 MAC, so a total intravenous technique is usually used."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What cerebrospinal fluid pressure is the usual drain target in thoracoabdominal aortic repair?",
+    "back": "10 to 12 mmHg."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What gradient limits are used when rewarming on bypass?",
+    "back": "Arterial inflow no higher than 37 degrees Celsius, and an inflow to venous return gradient of no more than about 10 degrees Celsius."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What is the normal ACT, and the usual target for full bypass?",
+    "back": "Normal is about 80 to 120 seconds. Bypass target is above 480 seconds, with 400 to 480 accepted in some centers."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What is the initial heparin dose before cannulation?",
+    "back": "300 to 400 units/kg, with an ACT check 3 to 5 minutes later."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What is the commonest cause of heparin resistance and its treatment?",
+    "back": "Acquired antithrombin deficiency from preoperative heparin infusion. Treat with antithrombin concentrate or fresh frozen plasma."
+  },
+  {
+    "domain": "intraoperative_monitoring",
+    "front": "What does a long TEG R time that corrects with heparinase indicate?",
+    "back": "Residual heparin effect, which calls for more protamine."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Usual heparin dose for CPB?",
+    "back": "300 to 400 units/kg IV before cannulation."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Target ACT for full CPB?",
+    "back": "Above 480 seconds, with many centers accepting 400 to 480 seconds."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Normal baseline ACT?",
+    "back": "About 80 to 120 seconds."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "How often is the ACT checked on bypass?",
+    "back": "About every 30 minutes, with supplemental heparin when below target."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "What prolongs the ACT without a heparin effect?",
+    "back": "Hypothermia, hemodilution, thrombocytopenia and platelet inhibitors."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "How does aprotinin affect ACT assays?",
+    "back": "It prolongs the celite ACT much more than the kaolin ACT, so a celite target near 750 seconds or a kaolin test is used."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Mechanism of heparin?",
+    "back": "It binds antithrombin and speeds its inactivation of thrombin and factor Xa about 1,000 fold."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Half-life of heparin?",
+    "back": "About 60 to 90 minutes, dose dependent."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Usual protamine dose to reverse heparin?",
+    "back": "1 to 1.3 mg per 100 units of total heparin, or a dose from a measured heparin concentration."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "How should protamine be given?",
+    "back": "Slowly over 10 minutes or more, off bypass, to avoid hypotension."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "What is a type I protamine reaction?",
+    "back": "Hypotension from rapid injection, caused by histamine-like vasodilation."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "What is a type III protamine reaction?",
+    "back": "Catastrophic pulmonary vasoconstriction with a high PA pressure, acute right heart failure and systemic hypotension."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Risk factors for serious protamine reactions?",
+    "back": "Prior protamine exposure, NPH insulin, fish allergy and prior vasectomy."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "What is heparin rebound?",
+    "back": "Return of anticoagulation hours after reversal as heparin leaves tissue stores; treat with a small protamine dose guided by the ACT."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Define heparin resistance.",
+    "back": "Failure to reach an ACT of 480 seconds after 400 to 600 units/kg of heparin."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Most common cause of heparin resistance?",
+    "back": "Acquired antithrombin deficiency after several days of continuous heparin infusion."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Treatment of heparin resistance after extra heparin fails?",
+    "back": "Antithrombin concentrate, commonly 500 to 1,000 units, or fresh frozen plasma if concentrate is unavailable."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "What is the mechanism of type II HIT?",
+    "back": "IgG antibodies to platelet factor 4 bound to heparin activate platelets through the Fc receptor."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Typical timing of HIT?",
+    "back": "Platelet fall of more than 50 percent 5 to 10 days after starting heparin, or within hours after recent exposure in the last 30 days."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "What is the 4Ts score?",
+    "back": "A clinical probability tool: thrombocytopenia, timing, thrombosis and other causes of thrombocytopenia."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Which tests diagnose HIT?",
+    "back": "Anti-PF4 ELISA to screen and the serotonin release assay to confirm."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Preferred heparin alternative for CPB in acute HIT?",
+    "back": "Bivalirudin, a direct thrombin inhibitor."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Bivalirudin dosing for CPB?",
+    "back": "1 mg/kg bolus, 50 mg in the pump prime, then 2.5 mg/kg/h infusion."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "ACT target on bivalirudin?",
+    "back": "Above 2.5 times baseline, commonly over 400 to 500 seconds."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "How is bivalirudin cleared?",
+    "back": "Plasma enzymatic proteolysis plus about 20 percent renal clearance; half-life near 25 minutes."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Main hazard of bivalirudin on CPB?",
+    "back": "Clot formation in areas of stasis because thrombin stays active; keep blood circulating and avoid stagnant reservoirs."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Is there a reversal agent for bivalirudin?",
+    "back": "No."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Why is argatroban a poor choice for CPB?",
+    "back": "Hepatic clearance and a half-life near 45 minutes make it hard to titrate and wear off."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "How is remote HIT managed for CPB?",
+    "back": "With negative antibodies and an event over 100 days ago, a single brief heparin exposure during CPB is accepted, with none before or after."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "What do you do with elective surgery in active HIT?",
+    "back": "Delay until antibodies are gone and avoid all heparin including flushes and coated catheters."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Mechanism of tranexamic acid?",
+    "back": "A lysine analog that blocks plasminogen lysine-binding sites so it cannot attach to fibrin."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Major adverse effect of high-dose TXA?",
+    "back": "Postoperative convulsive seizures through glycine and GABA-A receptor inhibition."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Who has higher seizure risk with TXA?",
+    "back": "Older patients, renal impairment and open-chamber surgery."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Why was aprotinin withdrawn in 2008?",
+    "back": "The BART trial showed higher mortality than lysine analogs, with renal injury risk."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Basic components of the CPB circuit?",
+    "back": "Venous reservoir, pump, oxygenator with heat exchanger, arterial line filter and cannulae."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Key behavior of a centrifugal pump versus a roller pump?",
+    "back": "Centrifugal flow falls as afterload rises and it cannot pump large air volumes; a roller pump is occlusive and can generate dangerous pressure."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Calculate hematocrit on bypass: blood volume 5 L, Hct 40 percent, prime 1.5 L.",
+    "back": "Red cell volume 2 L divided by 6.5 L total gives about 31 percent."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Lowest acceptable hematocrit on bypass?",
+    "back": "Usually 21 to 24 percent; lower values are linked to acute kidney injury."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Standard central cannulation sites?",
+    "back": "Distal ascending aorta for arterial and right atrial appendage two-stage cannula for venous drainage."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "When is bicaval cannulation used?",
+    "back": "When the right heart will be opened, with caval snares."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Signs of aortic dissection at CPB onset?",
+    "back": "Sudden rise in line pressure, loss of pulsation, blue aortic root, falling venous return and unequal arterial pressures."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Response to suspected dissection on cannulation?",
+    "back": "Reduce or stop flow, move to another cannulation site such as femoral or axillary, and repair urgently."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Effect of arterial cannula tip in the innominate artery?",
+    "back": "High right radial pressure, low left radial pressure and cerebral hyperperfusion."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Best tool to detect aortic atheroma before cannulation?",
+    "back": "Epiaortic ultrasound, more sensitive than palpation."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Preferred arterial site for dissection or arch surgery?",
+    "back": "Right axillary artery through an 8 mm graft, allowing antegrade flow and selective cerebral perfusion."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Risk of femoral arterial cannulation?",
+    "back": "Retrograde embolization of aortic atheroma and malperfusion of the true lumen in dissection."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Why monitor a second arterial line with axillary cannulation?",
+    "back": "The right radial line reads a cannula-affected pressure, so a left radial or femoral line shows true systemic pressure."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Causes of poor venous drainage on CPB?",
+    "back": "Hypovolemia, kinked or malpositioned cannula, venous air lock or a lifted heart."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Main mechanism of hyperkalemic cardioplegia?",
+    "back": "Potassium of 16 to 30 mEq/L depolarizes the membrane, inactivates sodium channels and arrests the heart in diastole."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Usual blood to crystalloid ratio in standard blood cardioplegia?",
+    "back": "4 parts blood to 1 part crystalloid."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "What is del Nido cardioplegia?",
+    "back": "1 part blood to 4 parts crystalloid with lidocaine and magnesium, one 20 mL/kg dose lasting 60 to 90 minutes."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Target temperature of cold cardioplegia?",
+    "back": "4 to 10 degrees C."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Typical antegrade root pressure for cardioplegia?",
+    "back": "70 to 100 mmHg."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Retrograde cardioplegia pressure target?",
+    "back": "30 to 40 mmHg in the coronary sinus to avoid sinus rupture."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Why does antegrade cardioplegia fail in significant aortic regurgitation?",
+    "back": "Solution leaks into the left ventricle, causing distension and poor myocardial delivery; use ostial or retrograde delivery."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Weakness of retrograde cardioplegia?",
+    "back": "Poor protection of the right ventricle and posterior septum."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "What does return of electrical activity on the cross-clamp mean?",
+    "back": "Cardioplegia is washing out or the heart is rewarming, so redose."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Typical normothermic CPB flow?",
+    "back": "2.2 to 2.4 L/min/m2."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Common MAP target on CPB?",
+    "back": "50 to 80 mmHg, higher in cerebrovascular disease, chronic hypertension or carotid stenosis."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Why does MAP fall at CPB onset?",
+    "back": "Hemodilution lowers viscosity, pulsatile flow is lost and circulating catecholamines are diluted."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "DO2i goal to reduce kidney injury on CPB?",
+    "back": "Above 272 mL/min/m2."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Target mixed venous saturation on CPB?",
+    "back": "Above 65 to 70 percent."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Treatment of vasoplegia after CPB?",
+    "back": "Vasopressin, then methylene blue 1.5 to 2 mg/kg, which inhibits guanylate cyclase and nitric oxide signaling."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Risk factors for post-CPB vasoplegia?",
+    "back": "ACE inhibitors, ARBs, amiodarone, low ejection fraction and long bypass time."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Effect of hypothermia on cerebral metabolic rate?",
+    "back": "Falls about 6 to 7 percent per degree C."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Maximum arterial inflow temperature during rewarming?",
+    "back": "37 degrees C, to avoid cerebral hyperthermia."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Rewarming rate and gradient limits?",
+    "back": "About 0.5 degrees C per minute or slower, with water to blood gradient under 10 degrees C."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Why do cold agglutinins matter for CPB?",
+    "back": "IgM antibodies agglutinate red cells below 37 degrees C, causing hemolysis and poor myocardial protection."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Strategy for cold agglutinin patients?",
+    "back": "Warm blood cardioplegia, avoid systemic hypothermia, warm the room and fluids, and consider preoperative plasmapheresis if symptomatic with a high titer."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Define alpha-stat management.",
+    "back": "Uncorrected blood gas values at 37 degrees C, targeting pH 7.40 and PaCO2 40 mmHg, preserving cerebral autoregulation."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Define pH-stat management.",
+    "back": "Gas values corrected to the patient's temperature, adding CO2 to hold pH 7.40, which raises cerebral blood flow and abolishes autoregulation."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Which acid-base strategy is usual in adults?",
+    "back": "Alpha-stat."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Why is awareness a risk during rewarming?",
+    "back": "Vasodilation and falling drug concentrations lighten the anesthetic, so add volatile agent or a hypnotic and monitor processed EEG."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Systemic inflammatory mediators activated by CPB?",
+    "back": "Complement C3a and C5a, neutrophils and cytokines such as IL-6 and TNF-alpha."
+  },
+  {
+    "domain": "management_of_cardiopulmonary_bypass",
+    "front": "Glucose threshold for insulin during CPB?",
+    "back": "Treat glucose above 180 mg/dL, partly to reduce neurologic injury."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Where should the IABP tip sit?",
+    "back": "1 to 2 cm distal to the origin of the left subclavian artery, near the carina on chest radiograph, above the renal arteries."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "When does the IABP inflate?",
+    "back": "At the dicrotic notch, which marks aortic valve closure, in diastole."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "When does the IABP deflate?",
+    "back": "Just before systole, which lowers aortic volume and afterload before ejection."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What are the two hemodynamic effects of the IABP?",
+    "back": "Diastolic augmentation that improves coronary perfusion pressure, and systolic unloading that lowers afterload and myocardial oxygen demand."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "How much does the IABP raise cardiac output?",
+    "back": "Only about 10 to 20 percent, and it needs an ejecting ventricle and a regular rhythm."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What is the effect of early IABP inflation?",
+    "back": "Inflation before aortic valve closure causes premature valve closure, lower stroke volume, higher LV end-diastolic pressure and possibly worse aortic regurgitation."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What is the effect of late IABP deflation?",
+    "back": "The balloon is still inflated as ejection starts, raising afterload and oxygen demand and reducing output. It is the most harmful timing error."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Name the absolute contraindications to the IABP.",
+    "back": "Significant aortic regurgitation and aortic dissection. Uncontrolled sepsis and bleeding are other contraindications."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What did IABP-SHOCK II show?",
+    "back": "No 30-day mortality benefit from routine IABP use in infarct-related cardiogenic shock. The IABP still has a role for mechanical complications of infarction."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What do blood or rust-brown flakes in the IABP gas line mean?",
+    "back": "Balloon rupture. Stop pumping and remove or exchange the balloon promptly."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Where does an Impella sit and what does it do?",
+    "back": "Across the aortic valve, drawing blood from the LV and ejecting it into the ascending aorta, directly unloading the LV."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Approximate maximal flows of Impella 2.5, CP and 5.5?",
+    "back": "About 2.5 L/min, 3.5 to 4 L/min, and up to about 5.5 L/min respectively."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Which Impella models need a surgical cutdown?",
+    "back": "The 5.0 and 5.5, usually through the axillary artery. The 2.5 and CP are placed percutaneously through the femoral artery."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Where should the Impella CP inlet sit?",
+    "back": "About 3.5 cm below the aortic annulus, in the LV cavity clear of the mitral apparatus and septum."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Name the contraindications to an Impella.",
+    "back": "Mechanical aortic valve, LV thrombus, severe aortic stenosis, more than mild aortic regurgitation, and a VSD."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What causes Impella suction events and how are they treated?",
+    "back": "Low LV volume or a malpositioned inlet. Give volume, reduce speed, reposition under TEE and treat RV failure."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What did DanGer Shock report?",
+    "back": "Lower 180-day mortality with Impella CP in selected patients with STEMI and cardiogenic shock, with more vascular and bleeding complications."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Describe TandemHeart cannulation.",
+    "back": "About 21 Fr inflow cannula from the femoral vein across the septum into the left atrium, with a centrifugal pump returning to a femoral artery."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Why can a TandemHeart be used with a mechanical aortic valve?",
+    "back": "It does not cross the aortic valve, so the valve and LV thrombus are not a barrier."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What is the main hemodynamic downside of the TandemHeart?",
+    "back": "It adds LV afterload because blood returns to the aorta against the ventricle. It does lower left atrial and wedge pressure."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What device supports the right ventricle with a dual-lumen right atrium to pulmonary artery cannula?",
+    "back": "The ProtekDuo. The Impella RP also supports the RV, with inflow in the inferior vena cava and outflow in the pulmonary artery."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What are the four LVAD strategies?",
+    "back": "Bridge to transplant, destination therapy, bridge to candidacy and bridge to recovery."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Which durable LVAD is current, and what is distinctive?",
+    "back": "The HeartMate 3, a centrifugal pump with a fully magnetically levitated rotor and a built-in artificial pulse every two seconds. The HVAD was withdrawn in 2021."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "How common is RV failure after LVAD and what predicts it?",
+    "back": "About 10 to 40 percent. Low RV stroke work index, CVP to wedge ratio above about 0.63, severe RV dysfunction and high PVR predict it."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Why must a PFO be closed before LVAD start?",
+    "back": "LVAD unloading drops left atrial pressure below right atrial pressure, causing right-to-left shunting, hypoxemia and paradoxical emboli."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "How much aortic regurgitation is acceptable with an LVAD?",
+    "back": "No more than mild. Greater AR forms a closed loop of regurgitant flow and low effective systemic output, so it must be repaired."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Why does air after LVAD start cause RV failure?",
+    "back": "Air collects in the anterior right coronary artery and causes RV ischemia. Careful de-airing under TEE prevents it."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Which way should the LVAD inflow cannula point?",
+    "back": "Toward the mitral valve, away from the septum and free wall."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What TEE findings suggest LVAD speed is too high?",
+    "back": "A small slit-like LV, septum shifted left, suction events and ventricular arrhythmias."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What are the four LVAD controller parameters?",
+    "back": "Speed in rpm, estimated flow in L/min, power in watts, and pulsatility index."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What do low flow, low pulsatility index and suction alarms suggest on an LVAD?",
+    "back": "Low preload from hypovolemia, tamponade or RV failure. Check volume and RV function before raising speed."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What pattern suggests LVAD pump thrombosis?",
+    "back": "A sustained rise in power with hemolysis, dark urine and high LDH."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What mean arterial pressure target applies to an LVAD patient?",
+    "back": "About 70 to 80 mmHg and generally no higher than 90, because the pump is sensitive to afterload."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What is differential hypoxemia on VA ECMO?",
+    "back": "In peripheral VA ECMO with a recovered LV and poor lungs, the heart delivers poorly oxygenated blood to the coronaries, brain and right arm. Monitor the right radial gas."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What happens to the LV on peripheral VA ECMO and how is it vented?",
+    "back": "Afterload rises and a poorly ejecting LV can distend. Use an inotrope, IABP, Impella, surgical vent or atrial septostomy."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "Name criteria for starting VV ECMO.",
+    "back": "PaO2/FiO2 below 80 mmHg for over 6 hours or below 50 mmHg for over 3 hours, or pH below 7.25 with PaCO2 60 mmHg or more for over 6 hours."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What is recirculation on VV ECMO?",
+    "back": "Oxygenated return blood is drawn back into the drainage port, shown by a high circuit venous saturation with persistent patient hypoxemia."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What controls oxygen delivery versus CO2 removal on ECMO?",
+    "back": "Blood flow and hemoglobin set oxygen delivery, while sweep gas flow mainly sets CO2 removal."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What anticoagulation targets and alternative apply on ECMO?",
+    "back": "Heparin with ACT about 180 to 220 seconds or anti-Xa 0.3 to 0.7 units/mL. Use bivalirudin for HIT."
+  },
+  {
+    "domain": "mechanical_circulatory_support",
+    "front": "What predicts successful VA ECMO weaning?",
+    "back": "At flow 1 to 1.5 L/min: LVEF above about 20 to 25 percent, aortic VTI above about 10 cm and lateral mitral annular velocity above about 6 cm/s."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "What is the typical ejection fraction in dilated cardiomyopathy?",
+    "back": "Below 40 percent, with a dilated left ventricle on the flat part of the Starling curve."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which gene is the most common known cause of familial dilated cardiomyopathy?",
+    "back": "Titin truncating variants."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "How does late gadolinium enhancement pattern separate ischemic from non-ischemic cardiomyopathy?",
+    "back": "Ischemic disease enhances subendocardially in a coronary territory; non-ischemic disease is typically mid-wall."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Define peripartum cardiomyopathy.",
+    "back": "Heart failure with ejection fraction below 45 percent in the last month of pregnancy or within 5 months of delivery."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Anesthetic goals in dilated cardiomyopathy?",
+    "back": "Preserve contractility, modest preload, afterload reduction, avoid tachycardia and depressants, and have inotropes ready."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "What inheritance and gene types cause hypertrophic cardiomyopathy?",
+    "back": "Autosomal dominant sarcomere gene variants, mostly beta-myosin heavy chain and myosin-binding protein C."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "What causes dynamic LVOT obstruction in HCM?",
+    "back": "Systolic anterior motion of the mitral leaflet, pulled into the outflow tract by Venturi and drag forces."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which Doppler signal suggests dynamic LVOT obstruction?",
+    "back": "A late-peaking, dagger-shaped continuous-wave profile."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "What three changes worsen HCM obstruction?",
+    "back": "Decreased preload, decreased afterload, and increased contractility or heart rate."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Preferred vasopressor for hypotension in obstructive HCM?",
+    "back": "Phenylephrine or vasopressin, with volume; avoid epinephrine, dopamine and other inotropes."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Resting or provoked LVOT gradient that supports septal reduction therapy?",
+    "back": "50 mmHg or more with persistent symptoms despite maximally tolerated medical therapy."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Main complication of alcohol septal ablation?",
+    "back": "Conduction block, including complete heart block needing a pacemaker, from septal infarction via the first septal perforator."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "How do mavacamten and aficamten work?",
+    "back": "They are cardiac myosin inhibitors that reduce actin-myosin cross bridges and lower the LVOT gradient, and may lower ejection fraction."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Hemodynamic hallmark of restrictive cardiomyopathy?",
+    "back": "A stiff ventricle with high filling pressures, small cavity, biatrial enlargement and fixed stroke volume."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Why is bradycardia poorly tolerated in restrictive cardiomyopathy?",
+    "back": "Stroke volume is fixed, so cardiac output depends on heart rate."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Echo pattern of Takotsubo cardiomyopathy?",
+    "back": "Apical ballooning with basal hyperkinesis after stress, which may cause LVOT obstruction."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "How is heart failure classified by ejection fraction?",
+    "back": "HFrEF is 40 percent or less, HFmrEF 41 to 49 percent, HFpEF 50 percent or more with elevated filling pressure."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Most common etiology of HFrEF?",
+    "back": "Ischemic heart disease."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "BNP and NT-proBNP cutoffs for acute heart failure?",
+    "back": "BNP above 100 pg/mL or NT-proBNP above 300 pg/mL, with higher age-adjusted cutoffs for older adults."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Why use NT-proBNP rather than BNP on sacubitril-valsartan?",
+    "back": "Neprilysin inhibition raises BNP but not NT-proBNP."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Common causes of HFpEF?",
+    "back": "Hypertension, obesity, diabetes, atrial fibrillation, aging and infiltrative disease."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Echo criteria supporting diastolic dysfunction?",
+    "back": "Septal e prime below 7 cm/s, average E/e prime above 14, left atrial volume index above 34 mL/m2, TR velocity above 2.8 m/s."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Mitral inflow pattern in grade 1 diastolic dysfunction?",
+    "back": "Impaired relaxation with E/A ratio below 0.8."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Four pillars of guideline-directed therapy for HFrEF?",
+    "back": "ARNI (or ACE inhibitor or ARB), evidence-based beta blocker, mineralocorticoid receptor antagonist and SGLT2 inhibitor."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which beta blockers have mortality benefit in HFrEF?",
+    "back": "Carvedilol, metoprolol succinate and bisoprolol."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "When is ivabradine used?",
+    "back": "Sinus rhythm at 70 beats per minute or above on maximally tolerated beta blocker, with HFrEF."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "How long before elective surgery should SGLT2 inhibitors be stopped?",
+    "back": "3 to 4 days, to reduce the risk of euglycemic ketoacidosis."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Why hold ACE inhibitors or ARBs before cardiac surgery?",
+    "back": "They are associated with vasoplegia after bypass, so many centers hold them 24 hours beforehand."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Indications for cardiac resynchronization therapy?",
+    "back": "Ejection fraction 35 percent or less, sinus rhythm, LBBB with QRS 150 ms or more, and NYHA II to IV symptoms on medical therapy."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Primary-prevention ICD criteria?",
+    "back": "Ejection fraction 35 percent or less, at least 40 days after MI or 90 days after revascularization, on 3 months of therapy, with survival over 1 year expected."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "What perioperative step is needed for an ICD during electrocautery?",
+    "back": "Suspend tachytherapies by magnet or programming, and apply external defibrillator pads."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "UNOS status 1 heart transplant criteria include which supports?",
+    "back": "VA ECMO, non-dischargeable surgically implanted biventricular support, and a durable device with life-threatening ventricular arrhythmia."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which supports qualify for UNOS status 2?",
+    "back": "Intra-aortic balloon pump, percutaneous endovascular device, or sustained ventricular tachycardia."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Resting heart rate of a denervated transplanted heart?",
+    "back": "About 90 to 110 beats per minute, without vagal tone."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which bradycardia treatments work in a transplant recipient?",
+    "back": "Isoproterenol, epinephrine and pacing; atropine, glycopyrrolate and carotid massage do not."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Why is ephedrine less effective after heart transplant?",
+    "back": "It acts partly indirectly through norepinephrine release from nerve terminals, which are denervated."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Triple immunosuppression after heart transplant?",
+    "back": "A calcineurin inhibitor, an antimetabolite such as mycophenolate, and a corticosteroid."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Toxicities of calcineurin inhibitors?",
+    "back": "Nephrotoxicity, hypertension, hyperkalemia, hypomagnesemia and neurotoxicity."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Define primary graft dysfunction.",
+    "back": "Left, right or biventricular failure within 24 hours of transplant without another identifiable cause."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Late killer after heart transplant and why it is silent?",
+    "back": "Cardiac allograft vasculopathy, a diffuse concentric coronary disease, silent because of denervation."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which factor determines whether a pericardial effusion causes tamponade?",
+    "back": "The speed of accumulation more than the volume."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "What is Beck triad?",
+    "back": "Hypotension, jugular venous distension and muffled heart sounds."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Define pulsus paradoxus.",
+    "back": "Inspiratory fall in systolic arterial pressure greater than 10 mmHg."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "CVP waveform change in tamponade?",
+    "back": "Preserved x descent with loss of the y descent."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Hemodynamic finding in tamponade?",
+    "back": "Equalization of diastolic pressures (CVP, PA diastolic and wedge) within about 5 mmHg."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Echo findings of tamponade?",
+    "back": "Right atrial systolic collapse, right ventricular diastolic collapse, plethoric IVC and exaggerated respiratory variation of inflow velocities."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Why is TEE needed after cardiac surgery with suspected tamponade?",
+    "back": "Loculated posterior clot can compress the atria without a large effusion visible on transthoracic views."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Anesthetic goals for tamponade before decompression?",
+    "back": "Preserve preload, high heart rate, contractility and vascular resistance; avoid positive pressure ventilation until the pericardium is opened."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Preferred induction drug in tamponade?",
+    "back": "Ketamine, with the surgeon scrubbed and ready."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Most common cause of constrictive pericarditis worldwide?",
+    "back": "Tuberculosis."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Pressure tracing in constriction?",
+    "back": "Dip-and-plateau (square root) ventricular pressure with a prominent y descent."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "What is Kussmaul sign?",
+    "back": "A rise in CVP on inspiration, seen in constriction."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "How does tissue Doppler distinguish constriction from restriction?",
+    "back": "Constriction has preserved or increased e prime; restriction has low e prime."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which phenomenon marks constriction on echo?",
+    "back": "Ventricular interdependence with septal bounce and mitral E velocity falling more than 25 percent with inspiration."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Determinants of myocardial oxygen demand?",
+    "back": "Heart rate, wall tension (preload and afterload) and contractility."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "What is left ventricular coronary perfusion pressure?",
+    "back": "Aortic diastolic pressure minus left ventricular end-diastolic pressure."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Why is tachycardia harmful in ischemic heart disease?",
+    "back": "It raises demand and shortens diastole, which cuts left coronary flow."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which myocardial layer is most vulnerable to ischemia?",
+    "back": "The subendocardium."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "ECG criteria for STEMI?",
+    "back": "ST elevation of 1 mm or more in two contiguous leads, 2 mm or more in V2 and V3 in men over 40."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Why is nitroglycerin cautioned in inferior MI?",
+    "back": "Right ventricular involvement makes the patient preload dependent and prone to hypotension."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "First-medical-contact-to-device goal for primary PCI?",
+    "back": "Within 90 minutes of first medical contact; fibrinolysis if PCI cannot be done within 120 minutes."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Treatment of no-reflow after PCI?",
+    "back": "Intracoronary adenosine, nitroprusside or verapamil."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Minimum delay for elective surgery after a drug-eluting stent?",
+    "back": "6 months, and 3 months may be acceptable if the risk of delay is greater; bare-metal stents need 1 month."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which CABG indications improve survival over medical therapy?",
+    "back": "Left main stenosis of 50 percent or more, three-vessel disease especially with reduced ejection fraction, and proximal LAD with multivessel disease."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which conduit has the best long-term patency in CABG?",
+    "back": "The left internal thoracic artery to the LAD, patent above 90 percent at 10 years."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Why is a vasodilator used with radial artery grafts?",
+    "back": "Radial grafts are prone to vasospasm, so calcium channel blocker or nitroglycerin is often given."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Hemodynamic problems of off-pump grafting to posterior vessels?",
+    "back": "Heart displacement causes hypotension, mitral regurgitation and right ventricular compression; treat with Trendelenburg, volume and vasopressors."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Most common primary cardiac tumor in adults?",
+    "back": "Myxoma, usually left atrial and attached to the fossa ovalis."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Valvular effects of carcinoid heart disease?",
+    "back": "Right-sided fibrosis causing tricuspid regurgitation and pulmonary stenosis."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Anesthetic caution in cardiac amyloidosis?",
+    "back": "Calcium channel blockers and digoxin bind amyloid fibrils and are poorly tolerated, as are vasodilators."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Key rhythm risks in cardiac sarcoidosis?",
+    "back": "Heart block and ventricular tachycardia, so keep pacing and defibrillation ready."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Which storage disease has deficient alpha-galactosidase A?",
+    "back": "Fabry disease, causing concentric hypertrophy and conduction disease."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Most common primary malignant cardiac tumor?",
+    "back": "Angiosarcoma; metastases are more common than any primary cardiac tumor."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "Most common pediatric cardiac tumor and its association?",
+    "back": "Rhabdomyoma, associated with tuberous sclerosis."
+  },
+  {
+    "domain": "cardiac_diseases",
+    "front": "When is a lateral or Trendelenburg position hazardous in left atrial myxoma?",
+    "back": "When it lets the tumor obstruct mitral inflow, causing sudden hemodynamic collapse; use TEE and avoid tumor manipulation."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Severe aortic stenosis by velocity, mean gradient and AVA?",
+    "back": "Peak velocity 4 m/s or more, mean gradient 40 mmHg or more, AVA 1.0 cm2 or less (indexed 0.6 cm2/m2 or less)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "What is the simplified Bernoulli equation?",
+    "back": "Peak gradient = 4 x V2. A 4 m/s jet gives 64 mmHg."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "What is the dimensionless index and its severe AS cutoff?",
+    "back": "LVOT VTI divided by AV VTI. A value of 0.25 or less supports severe AS and avoids the diameter error."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Define stage D2 aortic stenosis.",
+    "back": "Low-flow, low-gradient severe AS with reduced LVEF: AVA 1.0 cm2 or less, velocity under 4 m/s, mean gradient under 40 mmHg."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "How does dobutamine stress echo separate true from pseudo-severe AS?",
+    "back": "In true severe AS the gradient rises while the AVA stays small. In pseudo-severe AS the AVA rises as flow increases."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Define paradoxical low-flow, low-gradient AS (stage D3).",
+    "back": "Preserved LVEF with a stroke volume index under 35 mL/m2, typically a small hypertrophied LV in an older woman."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why does AS patient tolerate tachycardia poorly?",
+    "back": "Shortened diastole cuts coronary supply while wall tension and ejection time raise demand, causing ischemia even with clean coronaries."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why do patients with AS depend on atrial contraction?",
+    "back": "The stiff hypertrophied LV gets up to 40 percent of filling from atrial kick, so losing sinus rhythm can cause collapse."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "What is Heyde syndrome?",
+    "back": "Severe AS with gastrointestinal angiodysplasia bleeding due to acquired von Willebrand syndrome from loss of large multimers by high shear."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Indications for AVR in aortic stenosis?",
+    "back": "Symptomatic severe AS, asymptomatic severe AS with LVEF under 50 percent, or severe AS found during other cardiac surgery."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Age guidance for SAVR versus TAVR?",
+    "back": "SAVR favored under 65, TAVR favored over 80 or with limited life expectancy, shared heart team decision from 65 to 80."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Hemodynamic goals for anesthesia in severe AS?",
+    "back": "Sinus rhythm at 60 to 80 beats/min, adequate preload, preserved SVR and contractility. Treat hypotension with phenylephrine or norepinephrine."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why place external defibrillator pads before induction in severe AS?",
+    "back": "CPR generates poor coronary flow across a stenotic valve, so early defibrillation is the main rescue."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "What is rapid ventricular pacing used for in TAVR?",
+    "back": "Pacing at about 180 to 200 beats/min drops cardiac output to near zero for stable balloon valvuloplasty or valve deployment."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Most common conduction complication after TAVR?",
+    "back": "Complete heart block and new left bundle branch block, more frequent with self-expanding valves and a short membranous septum."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "List major TAVR complications.",
+    "back": "Conduction block, paravalvular leak, annular rupture, coronary obstruction, valve embolization, dissection, stroke, vascular injury and tamponade."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "A patient becomes hypotensive after TAVR deployment. What is the first imaging step?",
+    "back": "Examine echo at once for new pericardial effusion, new regurgitation or coronary obstruction."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Common causes of chronic aortic regurgitation?",
+    "back": "Aortic root dilation (Marfan, annuloaortic ectasia, hypertension, aortitis) and leaflet disease (bicuspid valve, rheumatic)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Common causes of acute aortic regurgitation?",
+    "back": "Infective endocarditis, type A aortic dissection and trauma."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Echo criteria for severe AR?",
+    "back": "Vena contracta over 0.6 cm, regurgitant volume 60 mL or more, regurgitant fraction 50 percent or more, EROA 0.30 cm2 or more, PHT under 200 ms."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Which Doppler flow finding supports severe AR?",
+    "back": "Holodiastolic flow reversal in the descending thoracic aorta, more specific if seen in the abdominal aorta."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Arterial waveform in chronic severe AR?",
+    "back": "Wide pulse pressure, low diastolic pressure and rapid upstroke and collapse (water-hammer pulse)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why is acute AR worse tolerated than chronic AR?",
+    "back": "The LV has not dilated, so LVEDP rises sharply. Premature mitral closure may appear on M-mode and the pulse pressure is not wide."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why avoid beta-blockers in acute severe AR?",
+    "back": "They block the compensatory tachycardia that keeps diastole short and cardiac output up."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Surgery triggers for asymptomatic severe AR?",
+    "back": "LVEF 55 percent or less, or LV end-systolic dimension over 50 mm (indexed over 25 mm/m2)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Anesthetic goals in severe AR?",
+    "back": "Heart rate 80 to 100 beats/min, maintained preload and lowered afterload. Avoid bradycardia and increased SVR."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why is an intra-aortic balloon pump contraindicated in significant AR?",
+    "back": "Diastolic augmentation pushes more blood back through the incompetent valve, increasing regurgitation."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why use an LV vent in AR on bypass?",
+    "back": "Fibrillation or cooling before cross-clamping distends the LV, which is poorly tolerated. A vent decompresses it."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "How should cardioplegia be given in severe AR after aortic cross-clamp?",
+    "back": "Directly into the coronary ostia after aortotomy or retrograde via the coronary sinus, since root delivery leaks into the LV."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Main cause of mitral stenosis worldwide?",
+    "back": "Rheumatic heart disease, with commissural fusion, leaflet thickening and a doming, hockey-stick anterior leaflet."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Non-rheumatic causes of mitral stenosis?",
+    "back": "Degenerative mitral annular calcification, radiation, congenital MS, carcinoid, lupus and obstructing masses."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Define severe and very severe mitral stenosis by MVA.",
+    "back": "Severe is 1.5 cm2 or less. Very severe is 1.0 cm2 or less. Normal is 4 to 6 cm2."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Pressure half-time formula for MVA?",
+    "back": "MVA = 220 / PHT. A PHT of 220 ms gives 1.0 cm2."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why must the heart rate be reported with a mitral gradient?",
+    "back": "The mean gradient depends on flow and diastolic time, so tachycardia raises it without a change in valve area."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Pressure tracing finding in MS with sinus rhythm versus atrial fibrillation?",
+    "back": "The PCWP tracing shows a large a wave in sinus rhythm, which is lost in atrial fibrillation."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Anticoagulant for AF with moderate to severe rheumatic MS?",
+    "back": "Warfarin, a vitamin K antagonist. Direct oral anticoagulants are not used."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Ideal candidate for percutaneous mitral balloon commissurotomy?",
+    "back": "Symptomatic severe rheumatic MS with Wilkins score 8 or less, no left atrial thrombus and no more than mild MR."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Heart rate goal and why in mitral stenosis?",
+    "back": "Slow, about 60 to 80 beats/min, because longer diastole lowers the transmitral gradient and left atrial pressure."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Which anesthetic factors raise PVR and worsen MS with pulmonary hypertension?",
+    "back": "Hypoxia, hypercarbia, acidosis, nitrous oxide and light anesthesia."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Main hazard of anesthesia in mitral stenosis?",
+    "back": "Right ventricular failure from pulmonary hypertension, plus pulmonary edema with tachycardia or excess fluid."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Describe Carpentier type I and II MR.",
+    "back": "Type I is normal leaflet motion (annular dilation, perforation, cleft). Type II is excess motion (prolapse, flail, papillary rupture)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Describe Carpentier type IIIa and IIIb MR.",
+    "back": "IIIa is restricted motion in systole and diastole (rheumatic). IIIb is restricted in systole only (ischemic or functional tethering)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Primary versus secondary mitral regurgitation?",
+    "back": "Primary is a disease of the valve apparatus. Secondary (functional) is a disease of the ventricle with tethering or annular dilation."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why is LVEF overestimated in chronic severe MR?",
+    "back": "Part of the stroke volume ejects into the low-pressure left atrium, so an LVEF of 60 percent or less is already abnormal."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why does acute MR cause pulmonary edema and shock?",
+    "back": "A normal-sized, noncompliant atrium faces sudden volume, giving a large v wave and high left atrial pressure."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Which papillary muscle ruptures more often with myocardial infarction and why?",
+    "back": "The posteromedial muscle, because it has a single blood supply from the posterior descending artery."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Echo criteria for severe primary MR?",
+    "back": "Vena contracta 0.7 cm or more, EROA 0.40 cm2 or more, regurgitant volume 60 mL or more, regurgitant fraction 50 percent or more."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "What does a large v wave on the PCWP trace suggest, and what limits it?",
+    "back": "Possible severe MR, but it is also seen with a stiff atrium or VSD, so it is not specific alone."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Indications for surgery in primary MR?",
+    "back": "Symptomatic severe MR, or asymptomatic severe MR with LVEF 60 percent or less or LV end-systolic dimension 40 mm or more."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why is repair preferred over replacement for degenerative MR?",
+    "back": "It preserves LV function and avoids lifelong anticoagulation. Replacement should spare the subvalvular apparatus."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "COAPT criteria for TEER in secondary MR?",
+    "back": "Symptomatic on optimal therapy, LVEF 20 to 50 percent, LV end-systolic dimension 70 mm or less, PA systolic pressure 70 mmHg or less."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "What gradient after TEER suggests iatrogenic mitral stenosis?",
+    "back": "A mean transmitral gradient above about 5 mmHg."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Anesthetic goals in severe MR?",
+    "back": "Heart rate 80 to 100 beats/min, maintained preload and reduced afterload. Avoid bradycardia and increased SVR."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "What is SAM after mitral repair?",
+    "back": "Systolic anterior motion of the anterior leaflet obstructing the LVOT, causing hypotension and new MR."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Risk factors for SAM?",
+    "back": "Redundant posterior leaflet, small hyperdynamic LV, basal septal bulge and long anterior leaflet."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Treatment of SAM after repair?",
+    "back": "Slow the heart rate, give volume, raise afterload with phenylephrine, use a beta-blocker and stop inotropes. Return to bypass if unstable."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why can LV function drop after mitral repair?",
+    "back": "Closing the low-pressure escape into the atrium raises afterload, unmasking a hidden LV dysfunction."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Primary and secondary causes of tricuspid regurgitation?",
+    "back": "Primary: Ebstein, rheumatic, carcinoid, endocarditis, lead damage. Secondary: annular dilation from RV dilation, pulmonary hypertension, left-sided disease or AF."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Echo criteria for severe TR?",
+    "back": "Vena contracta 0.7 cm or more, EROA 0.40 cm2 or more, hepatic vein systolic flow reversal, dense triangular CW Doppler signal."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "CVP waveform changes in severe TR?",
+    "back": "Loss of the x descent and a prominent v wave merging with the c wave (ventricularization)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Why is thermodilution cardiac output unreliable in severe TR?",
+    "back": "Indicator regurgitates back into the right atrium, distorting the curve."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "When is tricuspid annuloplasty added to left-sided valve surgery?",
+    "back": "For severe TR, and reasonable for mild to moderate TR with annular dilation above 40 mm or 21 mm/m2."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Anesthetic goals in severe TR?",
+    "back": "Maintain preload, support the RV, avoid increased PVR and keep a normal heart rate."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Hemodynamic findings in tricuspid stenosis?",
+    "back": "Large a wave in the CVP, slow y descent and a mean gradient of 5 mmHg or more. It is usually rheumatic with mitral disease."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "INR goal for a mechanical bileaflet aortic valve without risk factors?",
+    "back": "2.5 (range 2.0 to 3.0)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "INR goal for a mechanical mitral valve?",
+    "back": "3.0 (range 2.5 to 3.5)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Which anticoagulants are contraindicated with a mechanical valve?",
+    "back": "Direct oral anticoagulants. Warfarin is required."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "How are patient-prosthesis mismatch grades defined?",
+    "back": "Indexed EOA 0.85 cm2/m2 or less is moderate and under 0.65 cm2/m2 is severe."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Echo clue to prosthetic aortic valve obstruction?",
+    "back": "A high gradient, a dimensionless index below 0.25 and a prolonged acceleration time."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "What causes hemolytic anemia after valve replacement?",
+    "back": "Usually a paravalvular leak, with high LDH, low haptoglobin and schistocytes."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Duke criteria major findings in endocarditis?",
+    "back": "Positive blood cultures with a typical organism, and evidence of endocardial involvement (vegetation, abscess, new dehiscence or regurgitation)."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Which organism most often causes endocarditis in injection drug users?",
+    "back": "Staphylococcus aureus, most often on the tricuspid valve."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "When is surgery indicated for endocarditis?",
+    "back": "Heart failure from valve dysfunction, uncontrolled infection (abscess, fistula, persistent bacteremia), fungal organisms, or vegetation over 10 mm with embolism."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "What does new PR prolongation or heart block signal in endocarditis?",
+    "back": "Perivalvular, usually aortic root, abscess extending into the conduction system."
+  },
+  {
+    "domain": "valvular_heart_disease",
+    "front": "Timing of cardiac surgery after intracranial hemorrhage in endocarditis?",
+    "back": "Delay about 4 weeks when possible, unless refractory heart failure or uncontrolled sepsis forces earlier surgery."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What defines Eisenmenger syndrome?",
+    "back": "A large unrepaired left-to-right shunt causes obstructive pulmonary vascular disease. PVR exceeds SVR, the shunt reverses to right-to-left, and the patient becomes cyanotic."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What is the central hemodynamic goal in a patient with Eisenmenger syndrome under anesthesia?",
+    "back": "Keep SVR from falling and PVR from rising. Use phenylephrine or vasopressin and avoid hypoxia, hypercarbia, acidosis and vasodilators."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "Why is closing a defect contraindicated in fixed Eisenmenger physiology?",
+    "back": "The right ventricle cannot handle full afterload from fixed high PVR, and the shunt acts as a pop-off for the right ventricle."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What precaution applies to every IV line in a patient with a possible right-to-left shunt?",
+    "back": "Use air filters and remove all bubbles, because paradoxical air or particulate embolism can reach the brain."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "How does Fontan circulation produce pulmonary blood flow?",
+    "back": "Systemic venous return flows passively to the pulmonary arteries with no subpulmonary pump. Flow depends on CVP, low PVR and low intrathoracic pressure."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What ventilation strategy suits a Fontan patient?",
+    "back": "Use the lowest mean airway pressure with short inspiratory times and low PEEP, and return to spontaneous breathing early. Positive pressure reduces venous return and raises PVR."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What is the first response to low output in a Fontan patient?",
+    "back": "Give volume and lower PVR with oxygen, correction of acidosis and inhaled nitric oxide, then add inotropes if ventricular function is poor."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "Why does a fenestrated Fontan need air filters?",
+    "back": "The fenestration is a right-to-left communication between the baffle and the atrium, which allows paradoxical embolism."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What preparation reduces risk before a redo sternotomy?",
+    "back": "Review CT for structures behind the sternum, secure large-bore access, have blood ready, place defibrillator pads, and consider peripheral cannulation and bypass before re-entry."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What peak Doppler gradient defines severe pulmonary stenosis?",
+    "back": "A peak gradient above 64 mmHg, which is a velocity above 4 m/s. Moderate is 36 to 64 mmHg and mild is below 36 mmHg."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "Which first-line intervention treats valvar pulmonary stenosis in most patients?",
+    "back": "Balloon valvuloplasty for a mobile, domed valve."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What serious risk is tested during transcatheter pulmonary valve placement in a conduit?",
+    "back": "Coronary compression, tested by balloon inflation with simultaneous coronary angiography or aortography."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "Which indications support pulmonary valve replacement for asymptomatic severe PR?",
+    "back": "RV end-diastolic volume index above about 160 mL/m2, end-systolic volume index above about 80 mL/m2, falling RV function, sustained arrhythmia, or QRS above 180 ms."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "Where should the arterial line be placed in an adult with coarctation repair planned?",
+    "back": "In the right radial artery, since the left subclavian may be included in the repair or arise below the obstruction. A lower-extremity line shows the true gradient."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What gradient generally supports intervention for coarctation?",
+    "back": "An upper-to-lower extremity gradient above 20 mmHg, or lower if imaging shows significant narrowing with collateral flow."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What are the key features of Ebstein anomaly?",
+    "back": "Apical displacement of the septal and posterior tricuspid leaflets, atrialized right ventricle, tricuspid regurgitation, a frequent interatrial shunt and accessory pathways such as WPW."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "How should atrial fibrillation with pre-excitation in Ebstein anomaly be treated?",
+    "back": "Use procainamide or cardioversion. AV nodal blockers can accelerate conduction over the accessory pathway."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "What are the four components of tetralogy of Fallot?",
+    "back": "A large malaligned VSD, right ventricular outflow tract obstruction, an overriding aorta and right ventricular hypertrophy."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "How is a hypercyanotic tet spell treated?",
+    "back": "Give 100 percent oxygen and volume, reduce agitation, raise SVR with phenylephrine and use a beta-blocker such as esmolol. Avoid inotropes and vasodilators."
+  },
+  {
+    "domain": "adult_congenital_heart_disease",
+    "front": "Which ventricle supports the systemic circulation after a Mustard or Senning atrial switch?",
+    "back": "The morphologic right ventricle, which risks late failure, tricuspid regurgitation, atrial arrhythmias and baffle obstruction or leak."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Which aortic dissection types are Stanford type A and type B?",
+    "back": "Type A involves the ascending aorta regardless of tear site. Type B does not involve the ascending aorta and arises distal to the left subclavian artery."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "How do DeBakey types I, II, and III differ?",
+    "back": "Type I starts in the ascending aorta and extends to at least the arch. Type II is confined to the ascending aorta. Type III begins distal to the left subclavian; IIIa stays above the diaphragm, IIIb extends below it."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What is an intramural hematoma?",
+    "back": "Bleeding into the aortic media from the vasa vasorum with no intimal flap and no flow in the false channel. Ascending IMH is generally managed like type A dissection."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What is a penetrating atherosclerotic ulcer?",
+    "back": "An atherosclerotic plaque that ulcerates through the internal elastic lamina into the media, most often in the descending thoracic aorta of an older patient."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What is the leading cause of death in acute type A dissection?",
+    "back": "Rupture into the pericardium causing cardiac tamponade."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Which coronary artery is most often involved in type A dissection?",
+    "back": "The right coronary artery, producing inferior ST elevation from flap extension into its ostium."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What is the first-line imaging test in a stable patient with suspected dissection?",
+    "back": "Computed tomography angiography, which defines the tear, extent, branch involvement, and false lumen thrombus."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Which test is preferred for a hemodynamically unstable patient with suspected dissection?",
+    "back": "Transesophageal echocardiography, done in the operating room, with sensitivity near 98 percent."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What is the TEE blind spot in aortic imaging?",
+    "back": "The distal ascending aorta and proximal arch, because the air-filled trachea and left main bronchus lie between the probe and the aorta."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "How do the true and false lumens look on TEE?",
+    "back": "The true lumen is usually smaller and expands in systole with systolic color flow. The false lumen is larger, with spontaneous echo contrast or thrombus."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What are the 2022 ACC/AHA hemodynamic targets in acute aortic dissection?",
+    "back": "Heart rate 60 to 80 beats per minute and systolic pressure below 120 mmHg, while maintaining end-organ perfusion."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Why must a beta blocker precede a vasodilator in dissection?",
+    "back": "A vasodilator alone causes reflex tachycardia and raises dP/dt, which can propagate the dissection. Beta blockade lowers heart rate and dP/dt first."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "How is uncomplicated type B dissection managed?",
+    "back": "Medically, with anti-impulse therapy. Complicated type B (rupture, malperfusion, refractory pain, rapid expansion) is treated with endovascular or open repair."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Why is right axillary cannulation favored for arch surgery?",
+    "back": "It gives antegrade flow, allows selective antegrade cerebral perfusion by clamping the innominate artery, and avoids retrograde atheroma embolization."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Where should the arterial line go with right axillary cannulation?",
+    "back": "Use the left radial or a femoral artery for systemic pressure. A right radial line reads falsely high and shows cerebral perfusion pressure during selective antegrade perfusion."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What signs suggest the arterial cannula is in the false lumen?",
+    "back": "High line pressure, rapid loss of reservoir volume, falling radial pressure, or false lumen filling on TEE. Stop and reposition at once."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Why should the pericardium not be drained before bypass in dissection with tamponade?",
+    "back": "Decompression can raise aortic wall pressure and cause rupture. Establish bypass first."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What activated clotting time is targeted for cardiopulmonary bypass in aortic surgery?",
+    "back": "Above 480 seconds after full heparinization."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "How much does cerebral metabolic rate fall per degree Celsius of cooling?",
+    "back": "About 6 to 7 percent per degree."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What nasopharyngeal temperature range defines moderate hypothermia for circulatory arrest?",
+    "back": "20.1 to 28 degrees Celsius, commonly used with selective antegrade cerebral perfusion."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What temperature gradients are limited during cooling and rewarming?",
+    "back": "Keep the water to blood gradient at no more than 10 degrees, and keep venous outflow temperature below 37 degrees during rewarming."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What is the typical flow and pressure goal for selective antegrade cerebral perfusion?",
+    "back": "About 10 mL/kg/min, titrated to a right radial pressure of 50 to 70 mmHg."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What central venous pressure limit applies to retrograde cerebral perfusion?",
+    "back": "Keep superior vena cava pressure below 25 mmHg."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Alpha-stat versus pH-stat: how do they differ?",
+    "back": "Alpha-stat leaves the gas uncorrected for temperature and preserves autoregulation. pH-stat adds carbon dioxide to hold corrected pH at 7.40, raising cerebral flow but abolishing autoregulation."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What is a pseudoaneurysm of the aorta?",
+    "back": "A contained rupture whose wall is only adventitia or surrounding tissue and clot, not all three layers. It needs urgent repair."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Which genetic syndrome dissects at a smaller diameter than Marfan?",
+    "back": "Loeys-Dietz syndrome (TGFBR1 or TGFBR2), with repair at 4.0 to 4.5 cm depending on genotype."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What is the surgical size threshold for a sporadic ascending aortic aneurysm?",
+    "back": "5.5 cm, or 5.0 cm at an experienced center in a low-risk patient with risk factors."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "At what size is the ascending aorta replaced during other cardiac surgery?",
+    "back": "4.5 cm or larger when the patient is already undergoing aortic valve or other cardiac surgery."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What growth rate prompts earlier ascending aneurysm repair?",
+    "back": "0.3 cm per year over two consecutive years, or 0.5 cm in a single year."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Which Crawford extent carries the highest risk of paraplegia?",
+    "back": "Extent II, from the left subclavian to below the renal arteries."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What aneurysm sizes trigger descending thoracic repair?",
+    "back": "5.5 cm or larger when TEVAR is feasible, and 6.0 cm or larger for open repair."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What is the formula for spinal cord perfusion pressure?",
+    "back": "Mean arterial pressure minus cerebrospinal fluid pressure, or minus central venous pressure if that is higher."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "What CSF drainage practice protects the spinal cord?",
+    "back": "Keep CSF pressure about 10 mmHg or lower, limit drainage to roughly 10 to 15 mL per hour, and watch for subdural hematoma from rapid drainage."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Which anesthetic conditions preserve motor evoked potentials?",
+    "back": "Total intravenous technique, volatile agent below about 0.5 MAC, and no neuromuscular blockade after induction."
+  },
+  {
+    "domain": "thoracic_aortic_disease",
+    "front": "Where does blunt traumatic aortic injury most often occur?",
+    "back": "At the aortic isthmus just distal to the left subclavian artery, near the ligamentum arteriosum."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Initial treatment of an unstable tachyarrhythmia?",
+    "back": "Synchronized cardioversion, not a drug trial. Pulseless VF or VT gets unsynchronized defibrillation and CPR."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Typical biphasic energy for AF, flutter, and monomorphic VT with a pulse?",
+    "back": "AF 120 to 200 J, flutter 50 to 100 J, monomorphic VT with a pulse 100 J, all synchronized."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Adenosine dosing for regular narrow complex tachycardia?",
+    "back": "6 mg rapid IV push, then 12 mg if needed, through a proximal vein with a flush, after a vagal maneuver."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "What drugs change the effect of adenosine?",
+    "back": "Theophylline and caffeine blunt it; dipyridamole and carbamazepine exaggerate it. In a transplanted heart it causes prolonged asystole, so reduce the dose."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Atrial fibrillation with WPW and a wide irregular fast rate: what to avoid and what to use?",
+    "back": "Avoid AV nodal blockers (adenosine, beta blockers, calcium channel blockers, digoxin). Use synchronized cardioversion if unstable, or procainamide or ibutilide if stable."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Treatment of torsades de pointes?",
+    "back": "Magnesium sulfate 2 g IV, potassium above 4.5 mEq/L, stop QT-prolonging drugs, and overdrive pacing or isoproterenol for pause-dependent torsades. Defibrillate if pulseless."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Atropine dosing and its limits in bradycardia?",
+    "back": "1 mg IV, repeat to a maximum of 3 mg. It is unreliable in Mobitz II, infranodal third degree block, and the denervated transplanted heart."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Why is complete heart block common after aortic valve surgery?",
+    "back": "The AV conduction tissue lies next to the aortic annulus. Epicardial pacing wires are first line."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Primary prevention ICD criteria?",
+    "back": "LVEF 35 percent or less, NYHA II or III, at least 40 days after MI and 90 days after revascularization, on guideline-directed therapy, with survival expected beyond one year."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Secondary prevention ICD indication?",
+    "back": "Survivors of VF or hemodynamically unstable VT that is not caused by a reversible cause."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Strongest CRT indication?",
+    "back": "LVEF 35 percent or less, sinus rhythm, LBBB with QRS 150 ms or longer, and NYHA II to ambulatory IV symptoms on guideline-directed therapy."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Where is the CRT left ventricular lead placed and what is its main implant risk?",
+    "back": "Through the coronary sinus into a posterolateral vein. Coronary sinus dissection or perforation is the recognized risk."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "What is conduction system pacing and why use it?",
+    "back": "His bundle or left bundle branch area pacing captures the native conduction system for narrow activation and helps avoid pacing-induced cardiomyopathy."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "What does a subcutaneous ICD lack?",
+    "back": "Chronic bradycardia pacing, antitachycardia pacing, and CRT. It gives only brief backup pacing after a shock."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Who is a good S-ICD candidate and who is not?",
+    "back": "Good: young patients, poor venous access, prior device infection. Not: patients needing pacing or with monomorphic VT that responds to ATP."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Main implant risk of a leadless pacemaker?",
+    "back": "Cardiac perforation with tamponade, because it is placed in the right ventricle through a large femoral venous sheath."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Decode the NBG pacing code positions.",
+    "back": "I chamber paced, II chamber sensed, III response to sensing (I, T, D, O), IV rate modulation (R)."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "What is pacemaker syndrome?",
+    "back": "Loss of AV synchrony, usually from VVI pacing with intact sinus function, causing cannon A waves, hypotension, and fatigue."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "List causes of failure to capture.",
+    "back": "High threshold from hyperkalemia, acidosis, ischemia, or drugs such as flecainide, and lead dislodgement."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Define oversensing and its danger.",
+    "back": "The device senses noise such as cautery or myopotentials as native beats and inhibits pacing, which is dangerous in a pacemaker-dependent patient."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "How does a magnet break pacemaker-mediated tachycardia?",
+    "back": "It converts the device to asynchronous pacing, which interrupts the retrograde sensing loop."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Why turn off rate response for surgery?",
+    "back": "Minute ventilation sensors react to ventilator or impedance monitoring and accelerometers to vibration, causing inappropriate fast pacing."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "What does a magnet do to a pacemaker?",
+    "back": "Usually asynchronous pacing at a fixed rate that depends on the manufacturer and battery state, only while the magnet is in place."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "What does a magnet do to an ICD?",
+    "back": "Suspends tachycardia detection and therapy in most devices. Pacing continues in its programmed mode, and it never causes asynchronous pacing."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Perioperative plan for a pacemaker-dependent patient having monopolar cautery above the umbilicus?",
+    "back": "Program asynchronous mode or use a magnet, use bipolar cautery or short bursts, and monitor perfusion by plethysmography or an arterial line."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Pad placement near a CIED generator?",
+    "back": "Keep pad edges at least 8 cm from the generator, and place ICD defibrillation pads before draping."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "When is a CIED interrogation required after surgery?",
+    "back": "Before leaving a monitored setting if the device was reprogrammed, major EMI occurred, or cardioversion was delivered."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Catastrophic complication of transvenous lead extraction and preparation for it?",
+    "back": "SVC or right atrial tear with tamponade. Have a surgeon, perfusion, large bore IV, arterial line, pads, blood in the room, and echocardiography."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Key anesthetic needs for AF ablation?",
+    "back": "General anesthesia, heparin keeping ACT above 300 seconds, and vigilance for tamponade, volume overload from irrigated catheters, and phrenic or esophageal injury."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "What is the anesthetic signature of pulsed field ablation?",
+    "back": "Strong skeletal muscle contraction with each pulse train, needing deep neuromuscular blockade, plus risk of coronary spasm and hemolysis."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Presentation of atrioesophageal fistula?",
+    "back": "Fever, chest pain, and embolic neurologic events 1 to 4 weeks after ablation. Avoid endoscopy with air insufflation and diagnose with chest CT."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "What are the anesthetic concerns for VT ablation?",
+    "back": "Poor reserve, unstable VT during mapping, sedation that may suppress inducibility, possible Impella or ECMO support, and tamponade with epicardial access."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "PASS criteria after LAA occluder deployment?",
+    "back": "Position, Anchor (tug test), Size (compression about 8 to 20 percent), Seal (residual leak under 5 mm)."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "Anticoagulation rule before elective cardioversion of AF lasting 48 hours or more?",
+    "back": "At least 3 weeks of therapeutic anticoagulation or TEE to exclude LAA thrombus, then at least 4 weeks afterward."
+  },
+  {
+    "domain": "electrophysiology_procedures",
+    "front": "ALARA and the effect of distance on radiation dose?",
+    "back": "As low as reasonably achievable using time, distance, and shielding. Doubling distance cuts dose to one quarter."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What tidal volume and plateau pressure define lung-protective ventilation in ARDS?",
+    "back": "6 mL/kg of predicted body weight with plateau pressure at or below 30 cm H2O. Aim for a driving pressure (plateau minus PEEP) under 15 cm H2O."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "How is predicted body weight calculated for a man?",
+    "back": "50 + 2.3 x (height in inches minus 60) kg. For a woman it is 45.5 + 2.3 x (height in inches minus 60) kg."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What are the Berlin ARDS severity bands by PaO2/FiO2 on at least 5 cm H2O PEEP?",
+    "back": "Mild 200 to 300, moderate 100 to 200, severe 100 or less."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "Which ARDS interventions have mortality evidence in moderate to severe disease?",
+    "back": "Lung-protective ventilation and prone positioning for at least 12 to 16 hours daily started early. Inhaled pulmonary vasodilators improve oxygenation but not survival."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "How do TRALI and TACO differ?",
+    "back": "TRALI: hypotension or normal pressure, normal or low filling pressures, no diuretic response. TACO: hypertension, high BNP and filling pressures, diuretic response."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What is the time window and treatment for TRALI?",
+    "back": "Noncardiogenic pulmonary edema within 6 hours of a plasma-containing product. Treatment is supportive and lung-protective; stop the transfusion, notify the blood bank, avoid diuretics if hypotensive."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What rapid shallow breathing index predicts weaning success?",
+    "back": "Respiratory rate divided by tidal volume in liters below 105."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "Why can a spontaneous breathing trial fail in a cardiac surgery patient?",
+    "back": "Removing positive pressure raises LV preload and afterload and can cause pulmonary edema in a marginal LV. Rising wedge pressure or falling SvO2 during the trial suggests a cardiac cause."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What is the usual timing and incidence of postoperative atrial fibrillation after cardiac surgery?",
+    "back": "20 to 40 percent after isolated CABG and up to 50 percent after valve surgery, peaking on postoperative days 2 to 3."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What is the treatment of unstable postoperative atrial fibrillation?",
+    "back": "Synchronized cardioversion. If stable, control rate with a beta blocker or diltiazem when LV function is preserved, or use amiodarone when LV function is depressed."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "How does the cardiac surgery arrest algorithm treat VF or pulseless VT?",
+    "back": "Up to three stacked shocks first, no routine 1 mg epinephrine boluses, emergency resternotomy within 5 minutes, and amiodarone 300 mg after the third failed shock."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "Why is AV sequential pacing preferred over ventricular pacing after cardiac surgery?",
+    "back": "It preserves atrial contribution to filling, raising cardiac output roughly 15 to 25 percent in a stiff, hypertrophied ventricle."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What findings suggest early graft dysfunction after CABG?",
+    "back": "New ST elevation in a graft territory, new regional wall motion abnormality, ventricular arrhythmia, or unexplained hypotension with rising filling pressures. Troponin alone is not specific."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What hemodynamic pattern suggests postoperative tamponade?",
+    "back": "Abrupt fall in chest tube drainage, rising and equalized CVP, PA diastolic and wedge pressures within about 5 mm Hg, narrow pulse pressure, low output and oliguria."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "Why does transthoracic echo often miss postoperative tamponade?",
+    "back": "Clots are frequently localized and posterior, compressing the left atrium or one chamber. TEE is far more sensitive."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What is the definitive treatment of unstable postoperative tamponade?",
+    "back": "Surgical re-exploration, even at the bedside. Needle pericardiocentesis fails for clotted blood."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "How is low cardiac output syndrome defined?",
+    "back": "Cardiac index below 2.0 L/min/m2 with hypoperfusion signs such as SvO2 below 60 percent, rising lactate and oliguria."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What hemodynamic pattern defines postoperative RV failure?",
+    "back": "High CVP with low or normal wedge pressure, CVP exceeding wedge pressure, a distended RV with septal flattening, and low output."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "How is postoperative RV failure managed?",
+    "back": "Lower RV afterload (avoid hypoxia, hypercapnia, acidosis, excess PEEP; inhaled nitric oxide or epoprostenol), support with milrinone or epinephrine, use vasopressin for systemic pressure, keep AV synchrony and avoid volume overload."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What defines vasoplegia after cardiopulmonary bypass?",
+    "back": "Low SVR (below about 800 dyne-s/cm5), normal or high cardiac index, hypotension and normal filling pressures, poorly responsive to catecholamines."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What is the stepwise treatment of vasoplegia?",
+    "back": "Norepinephrine, then vasopressin 0.03 to 0.04 units/min, then angiotensin II or methylene blue 1 to 2 mg/kg over 20 to 60 minutes. Hydroxocobalamin 5 g is a rescue."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "When should methylene blue be avoided?",
+    "back": "With serotonergic drugs (serotonin syndrome risk), G6PD deficiency, and pulmonary hypertension."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What viscoelastic findings point to residual heparin?",
+    "back": "Prolonged R time or clotting time in the native cup that corrects in the heparinase cup. Treat with small protamine doses of 25 to 50 mg."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "What are common chest tube criteria for re-exploration?",
+    "back": "Above 400 mL in the first hour, above 300 mL/h for 2 hours, above 200 mL/h for 4 hours, or a sudden large output of more than 500 mL."
+  },
+  {
+    "domain": "postoperative_considerations",
+    "front": "Why are NSAIDs avoided after CABG?",
+    "back": "They raise the risk of graft failure, myocardial infarction and renal injury, and carry an FDA boxed warning in the CABG setting."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What does a p value of 0.03 mean?",
+    "back": "If the null hypothesis were true, data at least this extreme would occur about 3 percent of the time. It is not the probability that the null hypothesis is true."
+  },
+  {
+    "domain": "other_topics",
+    "front": "Event rate is 10 percent with control and 6 percent with treatment. What is the number needed to treat?",
+    "back": "Absolute risk reduction is 4 percent, so NNT is 1 divided by 0.04, which is 25. Relative risk reduction is 40 percent."
+  },
+  {
+    "domain": "other_topics",
+    "front": "Which test compares time to an event between two groups?",
+    "back": "Kaplan-Meier curves compared with the log-rank test. Cox proportional hazards regression gives the hazard ratio."
+  },
+  {
+    "domain": "other_topics",
+    "front": "How do prevalence changes affect predictive values?",
+    "back": "Sensitivity and specificity do not change. When prevalence falls, positive predictive value falls and negative predictive value rises."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What is intention-to-treat analysis?",
+    "back": "Patients are analyzed in the group they were randomized to, whatever treatment they received. It preserves the benefit of randomization."
+  },
+  {
+    "domain": "other_topics",
+    "front": "Which test is used for two independent groups with skewed data?",
+    "back": "The Mann-Whitney U test. The paired nonparametric equivalent is the Wilcoxon signed rank test."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What does the perioperative surgical home aim to do?",
+    "back": "It is a patient-centered, team-led model that coordinates care from the decision for surgery through recovery and discharge."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What is alert fatigue in an electronic medical record?",
+    "back": "Clinicians override warnings because too many are low value. Selective, well-designed decision support reduces it."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What is a sentinel event?",
+    "back": "An unexpected occurrence involving death or serious physical or psychological injury, or the risk of it, that triggers an urgent review."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What does the Swiss cheese model say about harm?",
+    "back": "Harm occurs when holes in several layers of defense line up. Most errors are system failures, not individual carelessness."
+  },
+  {
+    "domain": "other_topics",
+    "front": "Which safety intervention is strongest: education, a policy, or a forcing function?",
+    "back": "A forcing function, such as a connector that cannot be mismatched, because it removes the possibility of the error. Education and policy are weaker."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What is closed-loop communication?",
+    "back": "The sender gives an order, the receiver repeats it back, and the sender confirms it was heard correctly."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What are the three stages of the WHO surgical safety checklist?",
+    "back": "Sign in, time out and sign out. Any team member may stop the line during the time out."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What does PDSA stand for and what is its purpose?",
+    "back": "Plan, Do, Study, Act. It is an iterative cycle for testing a small change and then adopting, adapting or abandoning it."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What are the three types of QI measures?",
+    "back": "Outcome, process and balancing measures. A balancing measure detects unintended harm elsewhere in the system."
+  },
+  {
+    "domain": "other_topics",
+    "front": "How do FMEA and root cause analysis differ?",
+    "back": "FMEA is prospective and scores severity, occurrence and detectability into a risk priority number. Root cause analysis is retrospective, done after an event."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What are the 5S steps?",
+    "back": "Sort, set in order, shine, standardize, sustain."
+  },
+  {
+    "domain": "other_topics",
+    "front": "Why is risk adjustment needed in public reporting?",
+    "back": "So that a center treating sicker patients is not unfairly penalized when outcomes are compared with other centers."
+  },
+  {
+    "domain": "other_topics",
+    "front": "What is stereotype threat?",
+    "back": "The drop in performance when a person fears confirming a negative stereotype about their own group."
+  },
+  {
+    "domain": "other_topics",
+    "front": "Who should interpret for a patient with limited English during consent?",
+    "back": "A qualified medical interpreter, not a family member or ad hoc staff member."
+  }
+]
